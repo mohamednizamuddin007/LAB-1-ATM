@@ -1,5 +1,10 @@
 # LAB-1-ATM
+
 ## ATM and Banking SYSTEM
+
+NAME : MOHAMED NIZAMUDDIN A
+
+REG NO : 212224040194
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
